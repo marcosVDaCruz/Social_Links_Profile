@@ -1,0 +1,16 @@
+@media (max-width: 393px){ /* iPhone 14 pro */
+  main{
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  div {
+    padding: 50px 20px;
+  }
+
+  footer{
+    display: flex;
+    font-size: 13px;
+  }
+}
